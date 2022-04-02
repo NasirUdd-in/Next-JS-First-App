@@ -13,7 +13,7 @@ const UploadCar = () => {
        
         <Container sx={{width: 500, mt: 20}}>
 
-            <FormControl sx={{ width: '35ch'}}>
+            <FormControl sx={{ width: '15ch'}}>
             <OutlinedInput placeholder="CarName" sx={{ width: '35ch', mt: 5 }}/> 
             <OutlinedInput placeholder="Price" sx={{ width: '35ch', mt: 5 }}/> 
             <OutlinedInput placeholder="Maker Name" sx={{ width: '35ch', mt: 5 }}/> 
